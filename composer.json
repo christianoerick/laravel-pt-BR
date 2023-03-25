@@ -2,6 +2,16 @@
 	"name": "christianoerick/laravel-pt-br",
 	"type": "library",
 	"description": "Ativar o idioma pt-BR (português brasileiro) para Laravel 10.x",
+	"keywords": [
+		"laravel",
+		"laravel-10x",
+		"laravel-lang",
+		"laravel-language",
+		"laravel-pt",
+		"laravel-pt-BR",
+		"laravel-pt_BR",
+		"laravel-ptBR"
+	],
 	"homepage": "https://christianoerick.com",
 	"license": "MIT",
 	"authors": [
