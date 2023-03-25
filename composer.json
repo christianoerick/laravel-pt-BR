@@ -1,0 +1,28 @@
+{
+	"name": "christianoerick/laravel-pt-br",
+	"type": "library",
+	"description": "Ativar o idioma pt-BR (português brasileiro) para Laravel 10.x",
+	"homepage": "https://christianoerick.com",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Christiano Erick",
+			"email": "contato@christianoerick.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"ChristianoErick\\LaravelPtBr\\": "src/"
+		}
+	},
+	"extra": {
+		"laravel": {
+			"providers": [
+				"ChristianoErick\\LaravelPtBr\\LaravelPtBrServiceProvider"
+			]
+		}
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
